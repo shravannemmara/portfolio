@@ -4882,8 +4882,9 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: powderblue;
+  background-color: lightskyblue;
   border-radius: 0.3rem;
+  background-image: linear-gradient(to bottom right, royalblue, skyblue, lightcyan);
 }
 
 @media (min-width: 576px) {
